@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate AI engineer and data detective who transforms complex data into actionable insights and intelligent solutions. Currently pursuing my B.Tech in Computer Science with AI specialization, I thrive on building systems that solve real-world problems through machine learning and data analysis.
+I'm a passionate AI engineer and data detective who transforms complex data into actionable insights and intelligent solutions. Recently completed my B.Tech in Computer Science with AI specialization, I thrive on building systems that solve real-world problems through machine learning and data analysis.
 
 **Current Focus:** Building intelligent systems that understand and solve real-world problems using cutting-edge AI technologies.
 
